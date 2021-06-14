@@ -16,6 +16,20 @@ html {
   margin: 0 auto;
 }
 
+
+#container {
+    height: 500px; 
+    min-width: 310px; 
+    max-width: 800px; 
+    margin: 0 auto; 
+}
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+
+
 h1 {
   text-align: center;
   padding: 1.5rem 2.5rem;
